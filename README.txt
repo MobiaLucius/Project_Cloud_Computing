@@ -1,6 +1,6 @@
 Đề tài môn điện toán đám mây
 Tên đề tài: Sử dụng docker để ảo hóa server Ubuntu
-Nhóm thực hiện: Nhóm 1
+Nhóm thực hiện: Nhóm 2
 Danh sách các yêu cầu của đề tài:
 - Cài đặt docker trên ubuntu
 - Xây dựng website có các chức năng: khởi tạo container, tắt container, quản lý user sử dụng container
