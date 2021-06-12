@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Login" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\2020-2021_HK2\\điện\ toán\ đám\ mây\\Cloud-Computing-Final-Project-main\\cloudcomputing\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
